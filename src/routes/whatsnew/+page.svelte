@@ -13,7 +13,7 @@
     </div>
      <div class="pt-2">
         <h1 class="text-xl font-semibold">Equipment Error?</h1>
-        <p><span class=" font-thin">4 November, 2001</span> | By Aaron Booker, Sophie Ivanov, John Smith</p>
+        <p><span class=" font-thin">4 November, 2001</span> | By Aaron Booker, Sophie Willaims, John Smith</p>
         <p class="pt-1">We have a detect a strong CMB waves from out detector and we have reason to believe that this have been a faulty detection as the data that we recieve have been many magnitude larger than data we have seen before. Because of this we will be continue inspecting our equipment and checking any defect, until then the experiment are to be paused. This has been a major setback for us as this could invalidate any data that we have collected before.</p>
     </div>
     <div class="pt-2">
@@ -23,7 +23,7 @@
     </div>
     <div class="pt-2">
         <h1 class="text-xl font-semibold">New Electromagnetic Signal!</h1>
-        <p><span class=" font-thin">29 September, 2001</span> | By Aaron Booker, Sophie Willaims</p>
+        <p><span class=" font-thin">29 September, 2001</span> | By Aaron Booker, Sophie Ivanov, Arthur Li</p>
         <p class="pt-1">We are happy to annouce that in partner ship with near by CMB array we have map out the primodial gravitational wave to a certain degree and we are one step closer to unconvering the fundamental truth of the universe!</p>
     </div>
     <div class="pt-2">
@@ -34,7 +34,7 @@
     <div class="pt-2">
         <h1 class="text-xl font-semibold">New Staff Rotation</h1>
         <p><span class=" font-thin">1 September, 2001</span> | By Matilda Myer</p>
-        <p class="pt-1">We are happy to announce our new staff member in this rotation. Prof. Aaron Booker, Asst. Prof. Sophie Williams, RA. Arthur Li, Eng. Sophie Ivanov, Eng. John Smith. They would be station here at the MSAO for 6 month. I wish them good luck and I hope they bring us some intersting finding.</p>
+        <p class="pt-1">We are happy to announce our new staff member in this rotation. Prof. Aaron Booker, Asst. Prof. Sophie Ivanov, RA. Arthur Li, Eng. Sophie Willaims, Eng. John Smith. They would be station here at the MSAO for 6 month. I wish them good luck and I hope they bring us some intersting finding.</p>
     </div>
 </div>
 <div class="pt-2">
