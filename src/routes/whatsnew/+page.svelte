@@ -29,7 +29,7 @@
     <div class="pt-2">
         <h1 class="text-xl font-semibold">Remember!</h1>
         <p><span class=" font-thin">6 September, 2001</span> | By Aaron Booker</p>
-        <p class="pt-1">Whilst many who work in this field can be consider a genius, anyone of us can still make mistake. Assistant Professor Sophie Willaims forgot to configurate the telescope lastnight getting us blank value without any useful data.</p>
+        <p class="pt-1">Whilst many who work in this field can be consider a genius, anyone of us can still make mistake. Assistant Professor Sophie Ivanov forgot to configurate the telescope lastnight getting us blank value without any useful data.</p>
     </div>
     <div class="pt-2">
         <h1 class="text-xl font-semibold">New Staff Rotation</h1>
