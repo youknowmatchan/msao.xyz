@@ -4,11 +4,11 @@
   </div>
    <p class="py-3">An observatory funded by the Miskatonic Univesity</p>
     <div class="flex space-x-12 items-center justify-center font-sans">
-      <a class = "bg-purple-600 hover:shadow-md px-4 text-white" href="/">Welcome</a>
-      <a class = "bg-purple-600 hover:shadow-md px-4 text-white" href="/highlightedhome">Highlighted Home</a>
-      <a class = "bg-purple-600 hover:shadow-md px-4 text-white" href="/detailedhome">Detailed Home</a>
-      <a class = "bg-purple-600 hover:shadow-md px-4 text-white" href="/whatsnew">What's New</a>
-      <a class = "bg-purple-600 hover:shadow-md px-4 text-white"href="/phonebook">Phonebook</a>
+      <a class = "bg-purple-600 hover:shadow-md px-4 text-white font-semibold" href="/">Welcome</a>
+      <a class = "bg-purple-600 hover:shadow-md px-4 text-white font-semibold" href="/highlightedhome">Highlighted Home</a>
+      <a class = "bg-purple-600 hover:shadow-md px-4 text-white font-semibold" href="/detailedhome">Detailed Home</a>
+      <a class = "bg-purple-600 hover:shadow-md px-4 text-white font-semibold" href="/whatsnew">What's New</a>
+      <a class = "bg-purple-600 hover:shadow-md px-4 text-white font-semibold" href="/portal">Staff Portal</a>
     </div>
   <br>
   <hr>

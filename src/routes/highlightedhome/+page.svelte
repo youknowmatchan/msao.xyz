@@ -1,5 +1,10 @@
+<div class="pt-2 space-y-2">
+    <h1 class="text-xl font-semibold">In Recent Light of a Intelligency Leak...</h1> 
+    <p>The Miskatonic University and assosiated organization have been brought to light the situation of a intelligent leak from the Miskatonic Southern Antarctic Observatory (MSAO). Our team have started an investigation into this event, and until further finding, further update and new observation data would be postpone from publishing until further notice. This also meant detail pre-existing data would be terminated and classified.</p>
+    <p>- Vice Chancelor Logae Bentley, PhD</p>
+</div>
 <div class="pt-2">
-    <h1>Skibid Institute of Astronomy</h1>
-    <p>A Private Institute for Astronomy funded by Skibidi</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque nihil quibusdam reiciendis atque dolorem temporibus soluta, animi vel? Non doloremque quasi vitae perspiciatis magni eligendi sequi dicta omnis impedit quisquam.</p>
+    <hr>
+    <a class="pt-2 text-blue-600  underline" href="/disclaimer">Disclaimer, Copyright, and Other Fine Print</a>
+    <p>Last Modifed, April 11, 2002.</p>
 </div>
